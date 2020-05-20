@@ -1,6 +1,6 @@
 {
-  "name": "jasypt",
-  "version": "1.0.3",
+  "name": "@eryue/jasypt",
+  "version": "1.0.0",
   "description": "org.jasypt.util.text.BasicTextEncryptor for Node.js",
   "main": "index.js",
   "bin": {
@@ -30,11 +30,8 @@
     "decrypt",
     "BasicTextEncryptor"
   ],
-  "author": "Ricky泽阳 <mail@zhoumq.cn>",
-  "bugs": {
-    "url": "https://github.com/rickyes/jasypt/issues"
-  },
-  "homepage": "https://github.com/rickyes/jasypt#readme",
+  "author": "famanoder <915905174@qq.com>",
+  "homepage": "https://github.com/famandoer/jasypt#readme",
   "license": "MIT",
   "devDependencies": {
     "beautify-benchmark": "^0.2.4",
